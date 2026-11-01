@@ -1,0 +1,7 @@
+type,id,name,category,price,quantity,minStock,extra
+ELECTRONICS,P101,Keyboard,Electronics,800.00,15,5,12
+ELECTRONICS,P102,Mouse,Electronics,400.00,21,4,12
+GENERAL,P103,Notebook,Stationery,60.00,5,10,
+GENERAL,P104,Pen,Stationery,10.00,180,50,
+GROCERY,P105,Biscuits,Grocery,25.00,18,10,2027-03-31
+ELECTRONICS,P106,USB Cable,Electronics,150.00,4,5,6
