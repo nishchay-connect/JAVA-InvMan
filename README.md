@@ -1,3 +1,5 @@
+# JAVA-InvMan
+
 # OOPS 3RD SEMESTER PROJECT
 
 ## Inventory Management System (Java, terminal based)
